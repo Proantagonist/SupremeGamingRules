@@ -112,7 +112,7 @@ Bans or punishments are not issued on the basis of solely raiding new players or
 ### Violations & Punishments
 
 Several of the rules we have here operate on a zero-tolerance policy. Admins reserve the right to determine punishment severity at their discretion.
-If rules are being violated then you must submit proof before asking an admin to investigate. Proof can be in the form of relevant screenshots (F12 while in game to capture screen via Steam) or in the form of video if you are able to do so. **Do not come to us asking for someone to be punished without proof.** Do **NOT** leave out details just to help your case. Admins do not take kindly to lying.
+**If rules are being violated then you must submit proof before asking an admin to investigate.** Proof can be in the form of relevant screenshots (F12 while in game to capture screen via Steam) or in the form of video if you are able to do so. **Do not come to us asking for someone to be punished without proof.** Do **NOT** leave out details just to help your case. Admins do not take kindly to lying.
 The official format for reporting violations can be found [here]http://www.supremeark.com/forums/topic/3/how-to-submitting-a-rule-violation .
 
 &nbsp;
