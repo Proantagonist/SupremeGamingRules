@@ -10,7 +10,7 @@ This ruleset applies **ONLY** to the following servers:
 1. Build ANYWHERE as long as it does not block loot crate spawns or impede access to them by other players. In addition, building on major resource locations is not allowed. Locations with restrictions:
   - **The Center**: Skull island ( obsidian, metal, and crystal), penguin iceberg near Green Obelisk, and around the Ice Palace underneath Green Obelisk ( organic polymer), small Crystal caves in the desert, and the metal mountain in the desert.
   - **Ragnarok**: The wyvern scar or its immediate edge, and the ice wyvern spawns on snow mountains.
-1. **DO NOT** misuse of bug exploits or cheating. These include building entire structures and storage containers past world limits (floor, walls, etc) that are inaccessible by any normal means or using indestructible player-crafted structures to create choke points or modify the root map design. 
+2. **DO NOT** misuse of bug exploits or cheating. These include building entire structures and storage containers past world limits (floor, walls, etc) that are inaccessible by any normal means or using indestructible player-crafted structures to create choke points or modify the root map design. 
 1. No excessive cursing, racism or hate speech in global chat or on the server Discord which extends to aliases and character names. Due to Ark catering to a younger demographic, we ask players to please refrain from excessive amounts of foul language, afterall no one likes a chat spammer. If an argument needs to happen, take it to private messages.
 1. Don't be a jerk, which means no griefing, trolling, or harrassing other players.
 1. NO suicide bombing. This includes, but is not limited to, C4 and Rocket Launchers.
