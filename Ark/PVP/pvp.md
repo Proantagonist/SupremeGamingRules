@@ -8,8 +8,8 @@ This ruleset applies **ONLY** to the following servers:
 ### Global Rules
 
 1. Build ANYWHERE as long as it does not block loot crate spawns or impede access to them by other players. In addition, building on major resource locations is not allowed. Locations with restrictions:
-  - **The Center**: Skull island ( obsidian, metal, and crystal), penguin iceberg near Green Obelisk, and around the Ice Palace underneath Green Obelisk ( organic polymer), small Crystal caves in the desert, and the metal mountain in the desert.
-  - **Ragnarok**: The wyvern scar or its immediate edge, and the ice wyvern spawns on snow mountains.
+     - **The Center**: Skull island ( obsidian, metal, and crystal), penguin iceberg near Green Obelisk, and around the Ice Palace underneath Green Obelisk ( organic polymer), small Crystal caves in the desert, and the metal mountain in the desert.
+     - **Ragnarok**: The wyvern scar or its immediate edge, and the ice wyvern spawns on snow mountains.
 2. **DO NOT** misuse of bug exploits or cheating. These include building entire structures and storage containers past world limits (floor, walls, etc) that are inaccessible by any normal means or using indestructible player-crafted structures to create choke points or modify the root map design. 
 1. No excessive cursing, racism or hate speech in global chat or on the server Discord which extends to aliases and character names. Due to Ark catering to a younger demographic, we ask players to please refrain from excessive amounts of foul language, afterall no one likes a chat spammer. If an argument needs to happen, take it to private messages.
 1. Don't be a jerk, which means no griefing, trolling, or harrassing other players.
@@ -103,9 +103,9 @@ Individuals on the servers that choose to support the server through monetary co
 ### Harassment
 
 Bans or punishments are not issued on the basis of solely raiding new players or players weaker than you, this is a PVP server afterall. Ark online multiplayer is more enjoyable with others but the "multiplayer" component of Ark cannot be possible when players are driven off the server. Don't ruin your experience by ruining others'. If found raiding new players or steamrolling players who are obviously weaker than you for no obvious reason other than your amusement, admins will issue an appropriate punishment. This includes, but is not limited to:
-  - Repeatedly raiding a player over a short period of time.
-  - Griefing players in open world PvP (e.g. camping bodies, continuously tranqing them, etc.)
-  - Any sort of shake-down or racketeering operations.
+    - Repeatedly raiding a player over a short period of time.
+    - Griefing players in open world PvP (e.g. camping bodies, continuously tranqing them, etc.)
+    - Any sort of shake-down or racketeering operations.
 
 &nbsp;
 
@@ -239,3 +239,13 @@ The decay timers for different structure tiers are:
 **Max Length**: 30
 
 **Max Thickness**: 2.5
+
+&nbsp;
+
+### Ark Smart Breeding App Settings
+
+For those serious about their breeding game, [Ark Smart Breeding](https://github.com/cadon/ARKStatsExtractor) is a great tool to keep track of your dino generations and get the best out of your breeders. In addition, Supreme Ark runs bi-weekly Breeding Bonanza weekends where breeding settings are ramped up to 3x the normal Supreme Ark breeding rates noted above. The settings to use for the app on your end (both normal and Breeding Bonanza) are as follow:
+
+![Normal and Breeding Bonanza Buff Settings](https://i.imgur.com/ekPwoff.png "Normal and Breeding Bonanza Buff Settings")
+
+Toggle the "event" checkbox when the server is on a Breeding Bonanza weeked, which usually happens every two weeks.
