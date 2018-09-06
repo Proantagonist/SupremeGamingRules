@@ -9,7 +9,7 @@ This ruleset applies **ONLY** to the following servers:
 
 **As a general rule**, we ask that players refrain from raiding players that are not capable of mounting a proper defense. This is situational and will be dealt with on a case-by-case basis.
 1. **Don't be a Jerk**, which means no griefing, trolling, or harrassing other players.
-1. Do not block loot crate spawns or impede access to them by other players. In addition, building on major resource locations is not allowed. Locations with restrictions:
+1. **DO NOT** block loot crate spawns or impede access to them by other players. In addition, building on major resource locations is not allowed. Locations with restrictions:
      - **The Center**: Skull island ( obsidian, metal, and crystal), penguin iceberg near Green Obelisk, and around the Ice Palace underneath Green Obelisk ( organic polymer), small Crystal caves in the desert, and the metal mountain in the desert.
      - **Ragnarok**: The wyvern scar or its immediate edge, and the ice wyvern spawns on snow mountains.
 2. **DO NOT** misuse of bug exploits or cheating. These include building entire structures and storage containers past world limits (floor, walls, etc) that are inaccessible by any normal means or using indestructible player-crafted structures to create choke points or modify the root map design. 
@@ -34,6 +34,8 @@ The Craftable Tribute Terminal mod allows players to create an obelisk terminal 
 ### Safe and Restricted Areas
 
 This server is equipped with a plugin that allows us to set zones which restrict player construction and PvP damage. Restricted zones allow us to hard-protect resource rich locations so that no one player/tribe can monopolize it.
+
+No structures are permitted underneath obilisks.
 
 Safe zones are meant to help new players get a foothold on the servers. Every player/tribe has the right to claim a place in one of the safe zones allocated for a maximum duration of TWO DAYS. This location is for a simple structure which can be used to store collected resources in preparation for building in the open world. After their welcome expires on the starting zone, admins have the right to wipe/remove those structures without prior notice.
 
@@ -110,11 +112,11 @@ This is PVP. The rates have been established for an accelerated game play and be
 
 &nbsp;
 
-### Server Configuration
+### **Server Configuration**
 
 To preserve the Supreme Ark experience, all PVP servers share the exact same configuration and multiplier settings.
 
-#### *Main Settings*
+### *Main Settings*
 
 **Difficulty Offset**: 8
 
