@@ -1,7 +1,7 @@
 This ruleset applies **ONLY** to the following servers:
  
-1. **Supreme Ark Center PVE (sprk-cluster-pve)** 
-1. **Supreme Ark Ragnarok PVE (sprk-cluster-pve)** 
+1. **Supreme Ark Center PVP (sprk-cluster-pvp)** 
+1. **Supreme Ark Ragnarok PVP (sprk-cluster-pvp)** 
 
 &nbsp;
 
