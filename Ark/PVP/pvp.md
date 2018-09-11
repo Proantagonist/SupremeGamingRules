@@ -206,32 +206,46 @@ Please refer to following documentation before engaging an enemy to ensure you a
 - `T4+` tribes are permitted a **maximum** of 2 **offline** raids per week of a `T3`. That is to say if you are a member of a `T4+`, your tribe as a whole is permitted only 2 combined **offline** attacks on a `T3`. If reported and found to be in excess of this appropriate sanction will be enforced. 
 - `T5` Tribes are restricted to a **maximum** of 4 **offline** raids per week of any `T4`. Online base wipes are permitted, but not permitted offline.
 
+&nbsp;
 
+### Dino Parking Map
 
+The dino parking map is a completely **optional**, clustered, flat, PVE PGArk (Progressively Generated Ark) map available to you and your tribe intended for storing and protecting a very limited number of dinos in order provide a fallback dino pool in the event of a base wipe. This facility replaces the old passive pen rules and spec.
 
+#### How it Works
 
+- This is a PVE dino storage map. PVE prohibits players from maliciously wiping out protected dinos. Along with your dinos, you are allowed a 2x2x2 stone base with a bed spawn and a tribute terminal.
+- As the sole purpose of this map is for dino storate, all rates have been set as low as possibly allowable by the server. Harvesting and breeding on this map are rendered impractical. Breeding will have to occur on the PVP maps, however keep in mind transferring dinos resets their breeding timers. Dino consumption rates have been dropped to prevennt dinos from starving to death.
+- Structure and dino decay have been doubled to prolong protected dinos and spawn structures
+- Item transfers are disabled server-side. This means only dinos and naked players are allowed entry and exit from the parking map. This makes it impossible for players and tribes to smuggle blueprints and other valuable resources. Kits are provided with essential materials for spawn structures, etc.
 
+#### Parking Map Guidelines
 
+If found attempting, breaking, or abusing the parking map guidelines, appropriate admin action will be taken which include but is not limited temporary or permanent forfeiture of parking garage priviliges and/or complete dino wipe from the parking map.
 
+- Your tribe (defined as your organization and not per-map entities), is allowed to have one land area and one water area.
+- Occupy no more than 20x20x12 volume units per area.
+- Hitchposts will be provided to maintain your dinos within your area. Any loose and wandering dinos are subject to deletion without prior notice. Repeated incidents will result in elevated action described above.
+- Your tribe is limited to storing a **maximum** of 250 dinos on this map. This is a server-side enforced limit. Creating multiple tribes to circumvent the limit is a violation of the general guideline described above.
 
+#### Kits
 
+Given item transfers are disabled (in or out), tribes wil be unable to transfer in the resources necessary to download/upload dinos or structures for a storage area. We have designed kits available to fill this hole. These kits include:
 
+- 1 Supreme Ark Terminal
+- 4 hitching posts
+- 73 fence foundations to mark off the storage area
+- 1 behemoth gate
+- 1 behemoth gateway
+- 4 stone foundations
+- 15 stone walls
+- 1 reinforced door
+- 1 stone doorway
+- 4 stone ceilings
+- 1 bunk bed
+- A variety of common primitive dino saddles to facilitate dino movement. If your tribe is storing a dino for which a saddle we do not provide in the kit, one will not be provided.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+To learn how to redeem these kits, please follow [please follow this guide](https://www.supremeark.com/plugins/points)
 
 ### **Server Configuration**
 
@@ -311,7 +325,7 @@ To preserve the Supreme Ark experience, all PVP servers share the exact same con
 
 #### *Structure Decay Timers*
 
-Here at Supreme Ark we have accelerated structure decay timers to ensure that remnants of abandoned bases don't linger too long preventing players from claiming property and building. This is necessary to guarantee a very infrequent wipe-cycle.
+The Supreme Ark PVP servers use accelerated structure decay timers to ensure that remnants of abandoned bases don't linger too long, preventing players from claiming property and building. This is necessary to guarantee a consistently clean map for players to build on.
 
 The decay timers for different structure tiers are:
 
