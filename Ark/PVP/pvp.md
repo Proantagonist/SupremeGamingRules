@@ -7,23 +7,26 @@ This ruleset applies **ONLY** to the following servers:
 
 ### Global Rules
 
-**As a general rule**, we ask that players refrain from raiding players that are not capable of mounting a proper defense. This is situational and will be dealt with on a case-by-case basis.
-1. **Don't be a Jerk**, which means no griefing, trolling, or harrassing other players.
+The Supreme Ark PVP ruleset can be loosely summarized below, however each point is covered in depth in the succeeding sections and it is the responsibility of each player to fully understand the rules as ignorance will not be an excuse upon violation of any rule.
+
+1. **Don't be a Jerk**, which includes, but not limited to, no griefing, trolling, or harrassing other players.
 1. **DO NOT** block loot crate spawns or impede access to them by other players. In addition, building on major resource locations is not allowed. Locations with restrictions:
      - **The Center**: Skull island ( obsidian, metal, and crystal), penguin iceberg near Green Obelisk, and around the Ice Palace underneath Green Obelisk ( organic polymer), small Crystal caves in the desert, and the metal mountain in the desert.
      - **Ragnarok**: The wyvern scar or its immediate edge, and the ice wyvern spawns on snow mountains.
 2. **DO NOT** misuse of bug exploits or cheating. These include building entire structures and storage containers past world limits (floor, walls, etc) that are inaccessible by any normal means or using indestructible player-crafted structures to create choke points or modify the root map design. 
-1. **NO** excessive cursing, racism or hate speech in global chat or on the server Discord which extends to aliases and character names. Due to Ark catering to a younger demographic, we ask players to please refrain from excessive amounts of foul language, afterall no one likes a chat spammer. If an argument needs to happen, take it to private messages.
+1. **NO** excessive cursing, **NO** racism or hate speech in global chat or on the server Discord which extends to aliases and character names.
 1. **NO** suicide bombing. This includes, but is not limited to, C4 and Rocket Launchers.
 1. **DO NOT** build boxes on platform saddles that block the rider from being picked up by enemies or protect them from being shot from all angles.
+
+Any and all Rules are ultimately up to judgement and determination by the admin team. A failure of the rules to enumerate or list each and every potential instance of a potential violation shall not be construed as to allow that behavior. Flagrant disregard for the spirit and intention of the rules, attempting to skirt around the wording or appealing to technicality shall be looked upon disfavorably. Attempting to argue based on grounds of letter or technicality will likely be dismissed. Questioning of the rules is encouraged within reason and will result in no penalties. However arguing and questioning will only be entertained to clarify a true misunderstanding when a player or tribe has committed a possible violation.
 
 &nbsp;
 
 ### Craftable Tribute Terminal
 
-The terminal emits a beam of light like the tek transmitter, but it is red. In this way, players can differentiate between the two in the event of abuse in a PVP situation. Should abuse happen, it can be reported to the admins [here](http://www.supremeark.com/forums/topic/3/how-to-submitting-a-rule-violation). Please be advised that you must provide all required details outlined in that post including screenshots backup claims. **Any reports that are received that do not include evidence will be dismissed but tracked.**
+The terminal emits a beam of light like the tek transmitter, but it is red. In this way, players can differentiate between the two in the event of abuse in a PVP situation. Should abuse happen, it can be reported to the admins [here](http://www.supremeark.com/forums/topic/3/how-to-submitting-a-rule-violation). Please be advised that you must provide all required details outlined in that post including screenshots backup claims. **Any received reports lacking the necessary evidence will be dismissed.**
 
-The Craftable Tribute Terminal mod allows players to create an obelisk terminal to place in their base in order to make transfers between servers more convenient. A feature of the terminal is that it is able to be picked up and placed without limits. **Abuse of the tribute terminal will be treated as severe bug abuse and is subject to an immediate and permanent ban from all present and future Surpeme Ark services and servers. Restrictions on the tribute terminal:**
+The Supreme Ark Craftable Tribute Terminal mod allows players to create an obelisk terminal to place in their base in order to make transfers between servers more convenient. A feature of the terminal is that it is able to be picked up and placed without limits. **Abuse of the tribute terminal will be treated as severe bug abuse and is subject to an immediate and permanent ban from all present and future Surpeme Ark services and servers. Restrictions on the tribute terminal:**
 
 1. **DO NOT** use the terminal for **ANY** PvP related actions. The terminal cannot be used to stage dinos or transfer raid loot.
 1. **DO NOT** download a dino into an area where it cannot enter by normal means. (e.g. bringing a dino in a cave where the entrance is too small for it to enter)
@@ -33,59 +36,67 @@ The Craftable Tribute Terminal mod allows players to create an obelisk terminal 
 
 ### Safe and Restricted Areas
 
-This server is equipped with a plugin that allows us to set zones which restrict player construction and PvP damage. Restricted zones allow us to hard-protect resource rich locations so that no one player/tribe can monopolize it.
+This server is equipped with a plugin which allows zones to be marked as restricted, mechanically preventing player construction, PVP damage, or both. Certain locations on the map will be labeled as such to protect the following public resource areas:
 
-No structures are permitted underneath obilisks.
+- Ragnarok
+    - Small crystal caves in desert
+    - Metal mountain
+- Center
+    - Skull Island
+- All maps
+    - No militarization of obelisks
 
-Safe zones are meant to help new players get a foothold on the servers. Every player/tribe has the right to claim a place in one of the safe zones allocated for a maximum duration of TWO DAYS. This location is for a simple structure which can be used to store collected resources in preparation for building in the open world. After their welcome expires on the starting zone, admins have the right to wipe/remove those structures without prior notice.
+PVP safe zones are meant to help new players get a foothold on the servers. Every player/tribe has the right to claim a place in one of the safe zones allocated for a maximum duration of **TWO DAYS**. This location is for a simple structure which can be used to store collected resources in preparation for building in the open world. After reaching the time limit on the starting zone, admins have the right to wipe/remove structures without prior notice. Below you will find maps with areas highlighted indicating zones, where:
 
-PvP in the designated Green Zones should be disabled, however, any method or attempt to circumvent this with be dealt with harshly. Outside of extenuating circumstances, the attack of any player or tame in the zone as well as the use of wild dinos to attack or damage any players, structures or tames within the zone will be treated the same as exploitation and result in a permanent ban.
-
-Below you will find maps with areas highlighted indicating zones, where:
 **GREEN AREAS**: Safe starting zones (PVP is disabled here)
-**RED AREAS**: Restricted zones (Player building is restricted here)
+
+**RED AREAS**: Restricted zones (player building is restricted here)
+
+PvP in the designated safe zones (green areas) should be mechanically disabled and enforced, however, any method or attempt to circumvent this with be dealt with harshly. Outside of extenuating circumstances, the attack of any player or tame in the zone as well as the use of wild dinos to attack or damage any players, structures or tames within the zone will be treated the same as exploitation and result in a permanent ban.
 
 &nbsp;
 
 ### Base Design Limitations
 
-Players may follow whatever base design pattern they desire but must pay close attention to not abuse in-game mechanics that would allow them to build bases in manners that would not be conventionally possible or one that gives a severe artificial advantage.
+Players may follow whatever base design pattern they desire but must pay close attention to not abuse in-game mechanics that would allow them to build bases in manners that would not be conventionally possible or one that gives a severe artificial advantage. Such examples are:
 
+1. **Structure Undermeshing**: Abuse of use or glitches in to build outside of normal bounds is not allowed. *ANY STRUCTURE* found outside of the normal world mesh is subject to immediate demolition. Soft spots or gaps that allow the player to fall through or pass through what should be otherwise solid surfaces do not constitute normal areas of the world.
 1. **Floating Bases:** The floor of a base must not exceed a clearance greater than 12 wall units with the terrain below.
-
 1. **Foundation Spam:** Players and tribes must make full use of their claimed territory. Claiming large areas by spamming foundations is not permitted.
 
 &nbsp;
 
 ### Suicide Bombing
 
-Suicide bombing is the act of attaching C4 to any creature or player living or otherwise and using that entity in a suicidal rush to someone’s base to do mass damage, or rushing someone's base with a rocket launcher and shooting it point blank for max damage, typically killing the player. If caught doing this or an act similar to this, you and anyone who assisted in this process will be banned. Dive bombing with a Griffin in a raid is to be considered suicide bombing.
+Suicide bombing is the act of attaching C4 to any creature or player living or otherwise and using that entity in a suicidal rush to someone’s base to do mass damage, or rushing someone's base with a rocket launcher and shooting it point blank for max damage, typically killing the player. If caught doing this or an act similar to this, you and anyone who assisted in this process will be banned.
 
 &nbsp;
 
 ### Dino Armor and Rider Protection
 
-Dino armor use is unrestricted in PvP scenarios. Armor should not exceed more than 50% coverage in online raids, and dino armor is strictly forbidden in offline raids.
+Dino armor use is unrestricted in PVE activities. Armor should not exceed more than 50% coverage in online raids, and dino armor is strictly forbidden in offline raids.
 
 Rider protection is using structures which the rider clips into while mounted on a tamed creature which prevents the rider from being picked up or taking damage from every conceivable angle. If found doing this, an admin will take appropriate action determined by the severity of the violation.
+
+*Dino Armor consists of the use of structures and foundations on platform saddles to protect the rider and tame from conventional attacks*
 
 &nbsp;
 
 ### Caging and Handcuffing
 
-Caging and handcuffing players should be limited to 30 minutes of online time. If you cage someone while they are offline, they must be uncaged/uncuffed when you log off to prevent that player from logging in and be caged for hours until someone can log in to set them free. Please refer to the "Harassment" guideline.
+Caging and handcuffing players should be limited to 30 minutes of online time. If you cage someone while they are offline, they must be uncaged/uncuffed when you log off to prevent that player from logging in and be caged for hours until someone can log in to set them free. Please refer to the "Harassment" guideline below.
 
 &nbsp;
 
 ### Cheating and Bug Exploits
 
-Exploiting bugs in the game or in any mod to your benefit or cheating in any way will result in a ban.
+Exploiting bugs in the game or in any mod to your benefit or cheating in any way will result in a permanent ban from all Supreme Ark services.
 
 &nbsp;
 
 ### Harassment
 
-Bans or punishments are not issued on the basis of solely raiding new players or players weaker than you, this is a PVP server afterall. Ark online multiplayer is more enjoyable with others but the "multiplayer" component of Ark cannot be possible when players are driven off the server. Don't ruin your experience by ruining others'. If found raiding new players or steamrolling players who are obviously weaker than you for no obvious reason other than your amusement, admins will issue an appropriate punishment. This includes, but is not limited to:
+Bans or punishments are not issued on the basis of solely raiding new players or players weaker than you, this is a PVP server afterall. Ark online multiplayer is more enjoyable with others, but the "multiplayer" component of Ark cannot be possible when players are driven off the server. Don't ruin your experience by ruining others'. If found steamrolling or raiding new players or obviously weaker than you for no reason other than your amusement, admins will issue an appropriate punishment. Examples of harrassment include, but is not limited to:
     - Repeatedly raiding a player over a short period of time.
     - Griefing players in open world PvP (e.g. camping bodies, continuously tranqing them, etc.)
     - Any sort of shake-down or racketeering operations.
@@ -102,15 +113,125 @@ The official format for reporting violations can be found [here](http://www.supr
 
 ### Donor Items
 
-Individuals on the servers that choose to support the server through monetary contributions in return are rewarded with unique, seasonal, or hard-to-get skins. Their contributions directly translate into continued server uptime for everyone to enjoy. It is for this reason that we ask that these skins be left alone if found during a raid, as a token of respect and gratitude. If you would like to get a hold of the skins, please support the server by donating. Donating options can be found on the [store](http://www.supremeark.com/donate/).
+Individuals on the servers that choose to support the server through monetary contributions in return are rewarded with unique, seasonal, or hard-to-get skins. Their contributions directly translate into continued server uptime for everyone to enjoy. It is for this reason that we ask that these skins or items be left alone if found during a raid, as a token of respect and gratitude. If you would like to get a hold of the skins, please support the server by donating. Donating options can be found on the [store](http://www.supremeark.com/donate/).
 
 &nbsp;
 
 ### Style of Play
 
-This is PVP. The rates have been established for an accelerated game play and because of this Admin roles are specific to enforcing the rules. Being raided offline or being wiped is not something that admins can help with. IF however, it is harassment then see point above.
+This is PVP. The rates have been established for an accelerated game play and because of this Admin roles are specific to enforcing the rules. Being raided offline or being wiped is not something that admins can help with, unless it is clearly harrassment as outlined above.
 
 &nbsp;
+
+### Rules for Player vs. Player Interaction
+
+#### Open World PVP
+
+So long as all general server rules are followed regarding exploits, rider protection, harassment, etc. Open World PvP is unrestricted with one exception: on each map are designated safe zones, if by some means a way is discovered or used to attack players in the starter zone appropriate admin action will be taken depending on the severity of the offense.
+
+#### Tiers of Play
+
+Given that Ark is a game in which there are varying levels of technology, accordingly there should be varying levels of play governed by and considered by the rules.
+
+Tiers shall apply to any member of a tribe regardless of playtime and presence on a server. Further if an infraction occurs within 1 week of departure (or it can be shown that a player was given support and aid by previous tribe members), the tribe in question shall either disavow permanently any affiliation with offending player or be held liable for their actions.
+
+*Any player, or tribe, who engages in an attempt to raid a base no matter the tier, shall be open to retaliation from assailed tribe, and shall only be afforded protection from total wipe should they apply. Retaliation may come at the time and place of the victims choosing.  After the first successful raid, protections shall be restored.*
+
+#### Tribes Shall be Accountable for the Aactions of their Members
+
+Any infraction that occurs shall be the responsibility of the offending tribe as a whole. Depending on the severity, if a proper restitution is made no action will be taken other than a warning against any further misconduct. If the infraction is severe enough or has occurred after a first warning, the tribe shall be sanctioned as a whole at the discretion of the admin team. If however the tribe wishes to disavow offending members, only offending members shall be punished, however the tribe will still be responsible for restitution.
+
+### Tiered PVP
+
+The following tiers have been designed to ensure that combat between parties remains as fair for everyone involved. There are 5 tiers of play:
+
+- Tier 0 (T0): Thatch & wood
+- Tier 1 (T1): Stone
+- Tier 2 (T2): Metal, no defenses
+- Tier 3 (T3): Metal, active defenses
+- Tier 4 (T4): Metal, active defenses, multi-server presence
+- Tier 5 (T5): Tek or ascension
+
+Please refer to following documentation before engaging an enemy to ensure you are elibible to attack first. In the following text, when a "+" follows a tier label, it means any tier greater than or equal to that tier (>=).
+
+- `T3+` means: `T3`, `T4`, `T5`
+
+ Conversely, "-" following a tier label means any tier less than or equal to that tier (<=).
+
+ - `T3-` means: `T1`, `T2`, `T3`
+
+#### T0: Thatch, Wood
+
+- `T0` tribes or players are those that have literally just started on the server. `T0`'s are be encouraged to start in the new player safe zones. 
+- The destruction of any `T0` by a `T3+` is not permitted. 
+- Any attack upon `T0` bases offline or online by a `T3+` shall result in a minimum of a temporary ban of not less than 1 week.
+- Online attacks are permitted only by a `T1-`.
+- Offline attacks on a `T0` are only permitted by a `T0`. Full restitution shall be provided the event of an attack by a `T1+`. The burden of proof shall rest on the aggressor if evidence is not provided. Further attacks or failure to provide restitution shall be met with sanction including but not limited to temporary or permanent ban from all Supreme Ark services.
+
+#### T1: Stone
+
+- `T1` tribes and players are the weakest and most likely to be just starting out or have limited play time. Therefore they shall be afforded the most protections.
+- Whether online or offline, any attack on a `T1` by a `T3+` shall be met with the highest scrutiny. The wiping of, dealing of excessive damage to a `T1` by any `T3+` shall not be permitted.
+- Attacks on a `T1` by a `T3+` will be subject to immediate action. The responsible tribe will immediately be responsible full restitution of destroyed structures and dinos. The burden of proof shall rest on the aggressor if evidence is not provided; restitution value shall be determined by an admin.
+- Offline raids on a `T1` base is permitted only by other `T1-`.
+- Online raids are unrestricted for `T2-`.
+
+#### T2: Metal (No Defenses)
+
+- `T2` tribes are in a transient stage.
+- This is the shift from `T1` to `T3` tribe. 
+- Wiping of a `T2` is only permitted during an online raid by `T2-`.  
+- Offline raiding of a `T2` base is permitted only by `T2-`.
+- Online raids are unrestricted for `T2-`
+
+#### T3: Metal (Acive Defenses)
+
+- `T3` tribes are those that should have sufficient means and resources to mount a reasonable defense.
+- Offline and online raids are unrestricted for `T3-`. Base wipes permitted.
+- Offline and online raids by `T4+` are permitted within reason. Base wipes are not permitted.
+
+#### T4: Metal (Acive Defenses, Multi-Server Presence)
+
+- Offline raids are unrestricted for `T4-` .
+- Online Raids are unrestricted for `T5-`.
+
+#### T5: Tek and or Ascension
+
+- `T5` tribes are the masters of the Ark and include, amongst their ranks, at least one member that has ascended at least once, make use of Tek Tier in their defenses, upon inspection are found to have tek defenses in place ready to activate in the event of an attack.
+- Offline and Online Raids are unrestricted for `T5-`.
+
+#### Temporal Raid Restrictions and Exceptions
+
+- `T3+` tribes are permitted a **maximum** of 1 **online** raid per week of a `T2-`. That is to say if you are a member of a `T3+`, your tribe as a whole is permitted only 1 combined **online** attack of a defenseless base per week. If reported and found to be in excess of this appropriate sanction will be enforced.
+- `T4+` tribes are permitted a **maximum** of 2 **offline** raids per week of a `T3`. That is to say if you are a member of a `T4+`, your tribe as a whole is permitted only 2 combined **offline** attacks on a `T3`. If reported and found to be in excess of this appropriate sanction will be enforced. 
+- `T5` Tribes are restricted to a **maximum** of 4 **offline** raids per week of any `T4`. Online base wipes are permitted, but not permitted offline.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### **Server Configuration**
 
