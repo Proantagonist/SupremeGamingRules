@@ -60,7 +60,7 @@ PvP in the designated safe zones (green areas) should be mechanically disabled a
 
 Players may follow whatever base design pattern they desire but must pay close attention to not abuse in-game mechanics that would allow them to build bases in manners that would not be conventionally possible or one that gives a severe artificial advantage. Such examples are:
 
-1. **Structure Undermeshing**: Abuse of use or glitches in to build outside of normal bounds is not allowed. *ANY STRUCTURE* found outside of the normal world mesh is subject to immediate demolition. Soft spots or gaps that allow the player to fall through or pass through what should be otherwise solid surfaces do not constitute normal areas of the world.
+1. **Structure Undermeshing**: Abuse of use or glitches in to build outside of normal bounds is not allowed. **ANY STRUCTURE** found outside of the normal world mesh is subject to immediate demolition. Soft spots or gaps that allow the player to fall through or pass through what should be otherwise solid surfaces do not constitute normal areas of the world.
 1. **Floating Bases:** The floor of a base must not exceed a clearance greater than 12 wall units with the terrain below.
 1. **Foundation Spam:** Players and tribes must make full use of their claimed territory. Claiming large areas by spamming foundations is not permitted.
 
