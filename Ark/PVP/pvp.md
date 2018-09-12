@@ -12,7 +12,7 @@ The Supreme Ark PVP ruleset can be loosely summarized below, however each point 
 
 1. **Don't be a Jerk**, which includes, but not limited to, no griefing, trolling, or harassing other players.
 1. **DO NOT** block loot crate spawns or impede access to them by other players. In addition, building on major resource locations is not allowed.
-2. **DO NOT** misuse of bug exploits or cheating. These include building entire structures and storage containers past world limits (floor, walls, etc.) that are inaccessible by any normal means or using indestructible player-crafted structures to create choke points or modify the root map design. 
+2. **NO** misuse of bug exploits or cheating. These include building entire structures and storage containers past world limits (floor, walls, etc.) that are inaccessible by any normal means or using indestructible player-crafted structures to create choke points or modify the root map design. 
 1. **NO** excessive cursing, **NO** racism or hate speech in global chat or on the server Discord which extends to aliases and character names.
 1. **NO** suicide bombing. This includes, but is not limited to, C4 and Rocket Launchers.
 1. **DO NOT** build boxes on platform saddles that block the rider from being picked up by enemies or protect them from being shot from all angles.
