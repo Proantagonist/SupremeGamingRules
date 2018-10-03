@@ -75,7 +75,7 @@ Players may follow whatever base design pattern they desire but must pay close a
 
 ### Suicide Bombing
 
-Suicide bombing is the act of attaching C4 to any creature or player living or otherwise and using that entity in a suicidal rush to someone’s base to do mass damage, or rushing someone's base with a rocket launcher and shooting it point blank for max damage, typically killing the player. If caught doing this or an act similar to this, you and anyone who assisted in this process will be banned.
+Suicide bombing is the act of attaching C4 to any creature or player living or otherwise and using that entity in a suicidal rush to someone’s base to do mass damage, or rushing someone's base with a rocket launcher and shooting it point blank for max damage, regardless of if the player/dino doing so results in a survival **OR** death. If caught doing this or an act similar to this, you and anyone who assisted in this process will be banned.
 
 &nbsp;
 
