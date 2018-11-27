@@ -1,4 +1,4 @@
-This ruleset applies to the following servers:
+## These rules and settings apply to the following servers:
 
 1. **Supreme Ark Aberration PVE** 
 1. **Supreme Ark Center PVE** 
@@ -26,11 +26,13 @@ This ruleset applies to the following servers:
 1. **DO NOT** let your tamed dinos wander outside of your base.
 1. **NO** foundation, pillar or structure spam. Only build where you are active.
 
-*"Do unto others as you would have them do unto you"*
+_"Do unto others as you would have them do unto you"_
 
 &nbsp;
 
 ## **Additional Rules**
+
+&nbsp;
 
 ### **Territory Claims**
 
@@ -46,7 +48,7 @@ Do not block natural resources, paths or obelisks with permanent structures. Ens
 
 ### **Tribe Wars**
 
-While the server is primarily focused on PvE, we *DO* offer the ability for tribes to go to war with each other.  Should you and another tribe decide you'd like to declare war, there will be limitations set by both parties and those agreed upon limitations must be followed.
+While the server is primarily focused on PvE, we _DO_ offer the ability for tribes to go to war with each other.  Should you and another tribe decide you'd like to declare war, there will be limitations set by both parties and those agreed upon limitations must be followed.
 
 &nbsp;
 
@@ -62,7 +64,7 @@ Please reference [this forum category](https://www.supremegaming.gg/forums/categ
 
 Violations that originate from toxic behaviour will more often times result in an immediate and permanent ban. For other smaller recurring violations, admins reserve the right to issue punishments at their discretion.
 
-If rules are being violated then you must submit proof before asking an admin to investigate. Proof can be in the form of relevant screenshots (F12 while in game to capture screen via Steam) or in the form of video if you are able to do so. Do not come to use asking for someone to be punished without proof. Do ***NOT*** leave out details just to help your case. Admins do not take kindly to lying.
+If rules are being violated then you must submit proof before asking an admin to investigate. Proof can be in the form of relevant screenshots (F12 while in game to capture screen via Steam) or in the form of video if you are able to do so. Do not come to use asking for someone to be punished without proof. Do **_NOT_** leave out details just to help your case. Admins do not take kindly to lying.
 
 The official format for reporting violations can be found [here](http://www.supremeark.com/forums/topic/3/how-to-submitting-a-rule-violation).
 
@@ -73,7 +75,7 @@ The official format for reporting violations can be found [here](http://www.supr
 The Craftable Tribute Terminal mod allows players to create an obelisk terminal to place in their base in order to make transfers between servers more convenient. Due to Aberration not having the Classic Flyers mod, **ANY** travel to the Aberration map while a flyer is in the terminal will result in that dino being stuck in the terminal **PERMANENTLY**. This is due to the mod mechanics and is not a setting we control.
 
 
-*Be responsible with the pillars and terminals you place down. They are not demolishable by anybody else but the tribe that placed them. We admins do not have the time to go around and cleaning out terminals whenever they are abandoned and someone else wants to build where they are placed. If you place a tribute terminal please pick it up after you are done transferring/transporting items or creatures.*
+_Be responsible with the pillars and terminals you place down. They are not demolishable by anybody else but the tribe that placed them. We admins do not have the time to go around and cleaning out terminals whenever they are abandoned and someone else wants to build where they are placed. If you place a tribute terminal please pick it up after you are done transferring/transporting items or creatures._
 
 &nbsp;
 
@@ -81,7 +83,7 @@ The Craftable Tribute Terminal mod allows players to create an obelisk terminal 
 
 To preserve the Supreme Ark experience, all PVE servers share the exact same configuration and multiplier settings.
 
-#### *Main Settings*
+#### _Main Settings_
 
 **Max Player Level**: 350
 
@@ -137,7 +139,7 @@ To preserve the Supreme Ark experience, all PVE servers share the exact same con
 
 **Dino Turret Damage**: 4x
 
-#### *Per Level Stat Multipliers*
+#### _Per Level Stat Multipliers_
 
 **Player Weight**: 3x
 
@@ -147,7 +149,7 @@ To preserve the Supreme Ark experience, all PVE servers share the exact same con
 
 **Tamed Dino Melee**: 2x
 
-#### *Structure Decay Timers*
+#### _Structure Decay Timers_
 
 Here at Supreme Ark we have accelerated structure decay timers to ensure that remnants of abandoned bases don't linger too long preventing players from claiming property and building. This is necessary to guarantee a very infrequent wipe-cycle.
 
@@ -161,7 +163,7 @@ The decay timers for different structure tiers are:
 
 **Metal**: 16 Days
 
-#### *Transfer/Upload/Download Settings*
+#### _Transfer/Upload/Download Settings_
 
 **These timers are time to uploaded entity expiration. After the timer ends, entities will be destroyed unless removed from the terminal.**
 
@@ -180,12 +182,6 @@ The decay timers for different structure tiers are:
 **Elevator Weight Multiplier**: 20x
 
 **Elevator Speed**: 500
-
-#### *Pillar Plus Settings*
-
-**Max Length**: 30
-
-**Max Thickness**: 2.5
 
 &nbsp;
 
