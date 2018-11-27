@@ -13,11 +13,8 @@ This ruleset applies to the following servers:
 
 1. **DO NOT** block loot crate spawns or impede access to them by other players. 
 1. **DO NOT** build on the following restricted locations:
-
-   **The Center**: Skull island ( obsidian, metal, and crystal), penguin iceberg near Green Obelisk, and around the Ice Palace underneath Green Obelisk ( organic polymer)
-
-   **Ragnarok**: The wyvern scar or its immediate edge, and the ice wyvern spawns on snow mountains.
-
+ - **The Center**: Skull island ( obsidian, metal, and crystal), penguin iceberg near Green Obelisk, and around the Ice Palace underneath Green Obelisk ( organic polymer)\
+ - **Ragnarok**: The wyvern scar or its immediate edge, and the ice wyvern spawns on snow mountains.
 1. **DO NOT** bring flyers to the Aberration map. Any non-native flyers on Aberration will be immediately destroyed on sight by admins.
 1. **DO NOT** cheat or exploit bugs in the game or mods. These include using indestructible player-crafted structures to create choke points or modify the root map design.
 1. **NO** excessive cursing, racism or hate speech in global chat or on the server Discord which extends to aliases and character names.  If an argument needs to happen, take it to private messages.
