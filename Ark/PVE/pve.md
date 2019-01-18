@@ -5,7 +5,6 @@
 1. **Supreme Ark Island PVE** 
 1. **Supreme Ark Ragnarok PVE** 
 1. **Supreme Ark Extinction PVE**
-1. **Supreme Ark Extinction Core (MOD) PVE** 
 
 &nbsp;
 
@@ -186,6 +185,6 @@ The decay timers for different structure tiers are:
 
 For those serious about their breeding game, [Ark Smart Breeding](https://github.com/cadon/ARKStatsExtractor) is a great tool to keep track of your dino generations and get the best out of your breeders. In addition, Supreme Ark runs bi-weekly Breeding Bonanza weekends where breeding settings are ramped up to 3x the normal Supreme Ark breeding rates noted above. The settings to use for the app on your end (both normal and Breeding Bonanza) are as follow:
 
-![Normal and Breeding Bonanza Buff Settings](https://i.imgur.com/ekPwoff.png "Normal and Breeding Bonanza Buff Settings")
+![Normal and Breeding Bonanza Buff Settings](https://i.imgur.com/61u16uG.png "Normal and Breeding Bonanza Buff Settings")
 
 Toggle the "event" checkbox when the server is on a Breeding Bonanza weeked, which usually happens every two weeks.
