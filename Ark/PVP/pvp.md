@@ -1,7 +1,7 @@
 This ruleset applies **ONLY** to the following servers:
  
-1. **Supreme Ark Extinction PVP (sprk-cluster-pvp)** 
-1. **Supreme Ark Ragnarok PVP (sprk-cluster-pvp)** 
+1. **Supreme Ark Volcano PVP (sprk-cluster-pvp)** 
+
 
 &nbsp;
 
@@ -21,7 +21,7 @@ The general operation of these rules is more ‘spirit of the law’ mindset rat
 1. No blocking or impeding access to loot crate or artifact spawns. 
 1. No C4/rocket running. This includes any method to quickly get to turrets and blow them up point-blank with explosives.
 1. No dino armor or boxes to prevent 100% line of sight, or picking of riders on platform dinos during raids. 
-1. No use of the SA Terminal during active PvP, whether that be open-world PvP or a raid. Also no transfer of raid loot with this. [Note: the Tek Transmitter and its S+ counterpart are exempt from this rule]
+1. No Use of the Dino Storage V2 mod during active PvP
 
 &nbsp;
 
@@ -51,13 +51,13 @@ To preserve the Supreme Ark experience, all PVP servers share the exact same con
 
 **Taming**: 25x
 
-**Mating Interval**: 1x
+**Mating Interval**: .33x
 
-**Egg Hatch Speed**: 25x
+**Egg Hatch Speed**: 75x
 
-**Baby Mature Speed**: 25.0x
+**Baby Mature Speed**: 75.0x
 
-**Imprint Interval**: 0.20x (1/5 the time of vanilla)
+**Imprint Interval**: 0.05x (1/20 the time of vanilla)
 
 **Wild Dino Damage**: 2.0x
 
