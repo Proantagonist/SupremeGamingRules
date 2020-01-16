@@ -26,8 +26,6 @@ _"Do unto others as you would have them do unto you"_
 
 ---
 
-## **Additional Rules**
-
 ### **Territory Claims**
 
 * Each tribe is allowed up to a maximum of two bases.
@@ -60,7 +58,7 @@ Violations that originate from toxic behaviour will more often times result in a
 
 If rules are being violated then you must submit proof before asking an admin to investigate. Proof can be in the form of relevant screenshots (F12 while in game to capture screen via Steam) or in the form of video if you are able to do so. Do not come to use asking for someone to be punished without proof. Do **_NOT_** leave out details just to help your case. Admins do not take kindly to lying.
 
-The official format for reporting violations can be found [here](http://www.supremeark.com/forums/topic/3/how-to-submitting-a-rule-violation).
+You can report a violation on the [Discord Server](https://discord.gg/supremegaming) and creating a support ticket in any channel by sending a message containing `!ticket new`.
 
 ---
 
@@ -73,7 +71,7 @@ _Be responsible with the pillars and terminals you place down. They are not demo
 
 ---
 
-## Server Configuration
+## **Server Configuration**
 
 To preserve the Supreme Ark experience, all PVE servers share the exact same configuration and multiplier settings.
 
@@ -179,7 +177,7 @@ The decay timers for different structure tiers are:
 
 &nbsp;
 
-### Ark Smart Breeding App Settings
+### **Ark Smart Breeding App Settings**
 
 For those serious about their breeding game, [Ark Smart Breeding](https://github.com/cadon/ARKStatsExtractor) is a great tool to keep track of your dino generations and get the best out of your breeders. In addition, Supreme Ark runs bi-weekly Breeding Bonanza weekends where breeding settings are ramped up to 3x the normal Supreme Ark breeding rates noted above. The settings to use for the app on your end (both normal and Breeding Bonanza) are as follow:
 
