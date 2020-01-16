@@ -64,7 +64,7 @@ The official format for reporting violations can be found [here](http://www.supr
 
 ---
 
-### Additional notes
+### **Additional Notes**
 
 The Craftable Tribute Terminal mod allows players to create an obelisk terminal to place in their base in order to make transfers between servers more convenient. Due to Aberration not having the Classic Flyers mod, **ANY** travel to the Aberration map while a flyer is in the terminal will result in that dino being stuck in the terminal **PERMANENTLY**. This is due to the mod mechanics and is not a setting we control.
 
