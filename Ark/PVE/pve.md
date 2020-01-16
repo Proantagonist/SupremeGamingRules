@@ -12,7 +12,7 @@
 
 1. **DO NOT** block loot crate spawns or impede access to them by other players. 
 1. **DO NOT** build on the following restricted locations:
- - **The Center**: Skull island ( obsidian, metal, and crystal), penguin iceberg near Green Obelisk, and around the Ice Palace underneath Green Obelisk ( organic polymer)\
+ - **The Center**: Skull island ( obsidian, metal, and crystal), penguin iceberg near Green Obelisk, and around the Ice Palace underneath Green Obelisk ( organic polymer)
  - **Ragnarok**: The wyvern scar or its immediate edge, and the ice wyvern spawns on snow mountains.
 1. **DO NOT** bring flyers to the Aberration map. Any non-native flyers on Aberration will be immediately destroyed on sight by admins.
 1. **DO NOT** cheat or exploit bugs in the game or mods. These include using indestructible player-crafted structures to create choke points or modify the root map design.
@@ -44,7 +44,7 @@ Do not block natural resources, paths or obelisks with permanent structures. Ens
 
 ### **Tribe Wars**
 
-While the server is primarily focused on PvE, we _DO_ offer the ability for tribes to go to war with each other.  Should you and another tribe decide you'd like to declare war, there will be limitations set by both parties and those agreed upon limitations must be followed.
+While the server is primarily focused on PvE, we __DO__ offer the ability for tribes to go to war with each other.  Should you and another tribe decide you'd like to declare war, there will be limitations set by both parties and those agreed upon limitations must be followed.
 
 &nbsp;
 
