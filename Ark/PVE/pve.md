@@ -44,7 +44,7 @@ Do not block natural resources, paths or obelisks with permanent structures. Ens
 
 ### **Tribe Wars**
 
-While the server is primarily focused on PvE, we __DO__ offer the ability for tribes to go to war with each other.  Should you and another tribe decide you'd like to declare war, there will be limitations set by both parties and those agreed upon limitations must be followed.
+While the server is primarily focused on PvE, we ~DO~ offer the ability for tribes to go to war with each other.  Should you and another tribe decide you'd like to declare war, there will be limitations set by both parties and those agreed upon limitations must be followed.
 
 &nbsp;
 
