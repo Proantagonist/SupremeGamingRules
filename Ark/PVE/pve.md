@@ -6,7 +6,7 @@
 1. **Supreme Ark Ragnarok PVE** 
 1. **Supreme Ark Extinction PVE**
 
-&nbsp;
+---
 
 ## **Global Rules**
 
@@ -24,11 +24,11 @@
 
 _"Do unto others as you would have them do unto you"_
 
-&nbsp;
+---
 
 ## **Additional Rules**
 
-&nbsp;
+&nbsp
 
 ### **Territory Claims**
 
@@ -40,13 +40,13 @@ When starting a base or expanding a build, ensure that you are not blocking in a
 
 Do not block natural resources, paths or obelisks with permanent structures. Ensure that your build does not severly cripple dino spawns especially in tight spaces like caves.
 
-&nbsp;
+---
 
 ### **Tribe Wars**
 
-While the server is primarily focused on PvE, we ~DO~ offer the ability for tribes to go to war with each other.  Should you and another tribe decide you'd like to declare war, there will be limitations set by both parties and those agreed upon limitations must be followed.
+While the server is primarily focused on PvE, we **DO** offer the ability for tribes to go to war with each other.  Should you and another tribe decide you'd like to declare war, there will be limitations set by both parties and those agreed upon limitations must be followed.
 
-&nbsp;
+---
 
 ### **Super Breeds**
 
