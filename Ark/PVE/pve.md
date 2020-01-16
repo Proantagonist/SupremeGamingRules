@@ -28,8 +28,6 @@ _"Do unto others as you would have them do unto you"_
 
 ## **Additional Rules**
 
-&nbsp
-
 ### **Territory Claims**
 
 * Each tribe is allowed up to a maximum of two bases.
@@ -54,7 +52,7 @@ Super Breeds are defined as any dino with a base level of over 800. These dinos 
 
 Please reference [this forum category](https://www.supremegaming.gg/forums/category/15/pve-super-breeding-registration) for the list of registered Super Breeds and their authorised users.
 
-&nbsp;
+---
 
 ### **Violations & Punishments**
 
@@ -64,7 +62,7 @@ If rules are being violated then you must submit proof before asking an admin to
 
 The official format for reporting violations can be found [here](http://www.supremeark.com/forums/topic/3/how-to-submitting-a-rule-violation).
 
-&nbsp;
+---
 
 ### Additional notes
 
@@ -73,7 +71,7 @@ The Craftable Tribute Terminal mod allows players to create an obelisk terminal 
 
 _Be responsible with the pillars and terminals you place down. They are not demolishable by anybody else but the tribe that placed them. We admins do not have the time to go around and cleaning out terminals whenever they are abandoned and someone else wants to build where they are placed. If you place a tribute terminal please pick it up after you are done transferring/transporting items or creatures._
 
-&nbsp;
+---
 
 ## Server Configuration
 
