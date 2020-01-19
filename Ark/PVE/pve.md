@@ -2,25 +2,45 @@
 
 1. **Supreme Ark Aberration PVE** 
 1. **Supreme Ark Center PVE** 
+1. **Supreme Ark Extinction PVE**
+1. **Supreme Ark Genesis PVE**
 1. **Supreme Ark Island PVE** 
 1. **Supreme Ark Ragnarok PVE** 
-1. **Supreme Ark Extinction PVE**
+1. **Supreme Ark Scorched Earth PVE**
+1. **Supreme Ark Valguero PVE**
+1. **Supreme Ark PF Center PVE**
+1. **Supreme Ark PF Extinction PVE**
+1. **Supreme Ark PF Ragnarok PVE**
 
 ---
 
-## **Global Rules**
+# **Global Rules**
 
-1. **DO NOT** block loot crate spawns or impede access to them by other players. 
-1. **DO NOT** build on the following restricted locations:
- - **The Center**: Skull island ( obsidian, metal, and crystal), penguin iceberg near Green Obelisk, and around the Ice Palace underneath Green Obelisk ( organic polymer)
- - **Ragnarok**: The wyvern scar or its immediate edge, and the ice wyvern spawns on snow mountains.
-1. **DO NOT** bring flyers to the Aberration map. Any non-native flyers on Aberration will be immediately destroyed on sight by admins.
-1. **DO NOT** cheat or exploit bugs in the game or mods. These include using indestructible player-crafted structures to create choke points or modify the root map design.
-1. **NO** excessive cursing, racism or hate speech in global chat or on the server Discord which extends to aliases and character names.  If an argument needs to happen, take it to private messages.
-1. **NO** griefing, trolling, or harrassing other players. This also extends to stealing from other's containers, killing players and dinos, kiting aggressive dinos to someone's base or interrupting tames.
-1. **DO NOT** use the SA Terminal (mod item) to import dinos to a location they cannot normally enter (small caves, inaccessible water, etc).
-1. **DO NOT** let your tamed dinos wander outside of your base.
-1. **NO** foundation, pillar or structure spam. Only build where you are active.
+1. **DO NOT** block player spawns. If you have a player spawn inside your base, you __**MUST**__ make sure that there is an easy and obvious path out from your base.
+2. **DO NOT** block loot crate & beacon spawns or impede access to them by other players. 
+2. **DO NOT** build or block access to the following restricted locations:
+     - **Aberration:**
+         - Surface Access Points
+     - **Center:**
+         - Skull Island (Obsidian, Metal & Crystal)
+         - Penguin Iceberg at Green Obelisk (Organic Polymer)
+         - Ice Palace underneath Green Obelisk (Organic Polymer)
+     - **Extinction:**
+         - City Terminals
+     - **Ragnarok:**
+         - The Wyvern Scar or it's immediate surroundings
+         - Ice Wyvern spawn points
+         - Crystal Caves at Coordinates: 85.8, 51.1 | 40.0, 62.6 | 37.6, 58.9
+     - **Valguero:**
+         - Deinonychus Nests
+         - Deep Sea Cave Entrances
+2. **DO NOT** bring flyers to the Aberration map. Any non-native flyers on Aberration will be immediately destroyed on sight by admins.
+2. **DO NOT** cheat or exploit bugs in the game or mods. These include using indestructible player-crafted structures to create choke points or modify the root map design.
+2. **NO** excessive cursing, racism or hate speech in global chat or on the server Discord which extends to aliases and character names.  If an argument needs to happen, take it to private messages.
+2. **NO** griefing, trolling, or harrassing other players. This also extends to stealing from other's containers, killing players and dinos, kiting aggressive dinos to someone's base or interrupting tames.
+2. **DO NOT** use the SA Terminal (mod item) to import dinos to a location they cannot normally enter (small caves, inaccessible water, etc).
+2. **DO NOT** let your tamed dinos wander outside of your base.
+2. **NO** foundation, pillar or structure spam. __**Only build where you are active.**__
 
 _"Do unto others as you would have them do unto you"_
 
@@ -36,6 +56,8 @@ When starting a base or expanding a build, ensure that you are not blocking in a
 
 Do not block natural resources, paths or obelisks with permanent structures. Ensure that your build does not severly cripple dino spawns especially in tight spaces like caves.
 
+**Note: You CAN build within render of other bases.**
+
 ---
 
 ### **Tribe Wars**
@@ -47,6 +69,14 @@ While the server is primarily focused on PvE, we **DO** offer the ability for tr
 ### **Super Breeds**
 
 Super Breeds are defined as any dino with a base level of over 800. These dinos have been bred to have the highest values in at least 2 stats. Super Breed dinos are the property of the breeder and can only be traded, gifted, bred or used in boss fights at the original breeder's discretion. If caught with a Super Breed line that is not yours, the dinos will be removed from your possession and additional punishments will follow based on the severity of the violation.
+
+**DO NOT** cross-breed supers with regular tames.
+  - Breeders Responsibilities:
+    - Be cautious as to who you issue your super bred dinos to.
+    - IF a super bred dino is involved in griefing - it will be destroyed.
+  - Breeders Rights:
+    - Issue/Exchange their super breeds with whomever they wish.
+    - There are no limitations to what you can breed.
 
 Please reference [this forum category](https://www.supremegaming.gg/forums/category/15/pve-super-breeding-registration) for the list of registered Super Breeds and their authorised users.
 
@@ -64,8 +94,7 @@ You can report a violation on the [Discord Server](https://discord.gg/supremegam
 
 ### **Additional Notes**
 
-The Craftable Tribute Terminal mod allows players to create an obelisk terminal to place in their base in order to make transfers between servers more convenient. Due to Aberration not having the Classic Flyers mod, **ANY** travel to the Aberration map while a flyer is in the terminal will result in that dino being stuck in the terminal **PERMANENTLY**. This is due to the mod mechanics and is not a setting we control.
-
+The Craftable Tribute Terminal mod allows players to create an obelisk terminal to place in their base in order to make transfers between servers more convenient.
 
 _Be responsible with the pillars and terminals you place down. They are not demolishable by anybody else but the tribe that placed them. We admins do not have the time to go around and cleaning out terminals whenever they are abandoned and someone else wants to build where they are placed. If you place a tribute terminal please pick it up after you are done transferring/transporting items or creatures._
 
@@ -146,34 +175,28 @@ To preserve the Supreme Ark experience, all PVE servers share the exact same con
 Here at Supreme Ark we have accelerated structure decay timers to ensure that remnants of abandoned bases don't linger too long preventing players from claiming property and building. This is necessary to guarantee a very infrequent wipe-cycle.
 
 The decay timers for different structure tiers are:
-
-**Thatch**: 4 Days
-
-**Wood**: 8 Days
-
-**Stone**: 12 Days
-
-**Metal**: 16 Days
+- **Thatch**: 4 Days
+- **Wood**: 8 Days
+- **Stone**: 12 Days
+- **Metal**: 16 Days
+- **TEK**: 19 Days
 
 #### _Transfer/Upload/Download Settings_
 
 **These timers are time to uploaded entity expiration. After the timer ends, entities will be destroyed unless removed from the terminal.**
 
-**Dino Timer**: 6 hours
-
-**Item Timer**: 1 hour
-
-**Character Timer**: 24 hours
-
-**Transfer Cooldown**: None
+  - **Dino Timer**: 12 hours
+  - **Item Timer**: 2 hours
+  - **Character Timer**: 24 hours
+  - **Transfer Cooldown**: None
 
 #### *Structures Plus Settings*
 
-**Grinder Return Percentage**: 75%
-
-**Elevator Weight Multiplier**: 20x
-
-**Elevator Speed**: 500
+- **Grinder Return Percentage**: 75%
+- **Grinder Capacity**: 1,000
+- **Elevator Weight Multiplier**: 20x
+- **Elevator Speed**: 500
+- **Hatchery Capacity**: 1,000
 
 &nbsp;
 
