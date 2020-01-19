@@ -32,6 +32,7 @@
          - Ice Wyvern spawn points
          - Crystal Caves at Coordinates: 85.8, 51.1 | 40.0, 62.6 | 37.6, 58.9
      - **Valguero:**
+         - Aberration Access Points
          - Deinonychus Nests
          - Deep Sea Cave Entrances
 2. **DO NOT** bring flyers to the Aberration map. Any non-native flyers on Aberration will be immediately destroyed on sight by admins.
