@@ -182,6 +182,9 @@ The decay timers for different structure tiers are:
 - **Metal**: 16 Days
 - **TEK**: 19 Days
 
+- **Dino**: 8 Days
+- **Single Foundation or Pillar**: 12 Hours
+
 #### _Transfer/Upload/Download Settings_
 
 **These timers are time to uploaded entity expiration. After the timer ends, entities will be destroyed unless removed from the terminal.**
