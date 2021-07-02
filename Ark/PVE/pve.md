@@ -4,6 +4,7 @@
 1. **Supreme Ark Center PVE** 
 1. **Supreme Ark Extinction PVE**
 1. **Supreme Ark Genesis PVE**
+1. **Supreme Ark Genesis 2 PVE**
 1. **Supreme Ark Island PVE** 
 1. **Supreme Ark Ragnarok PVE** 
 1. **Supreme Ark Scorched Earth PVE**
@@ -17,7 +18,7 @@
 # **Global Rules**
 
 1. **DO NOT** block player spawns. If you have a player spawn inside your base, you __**MUST**__ make sure that there is an easy and obvious path out from your base.
-2. **DO NOT** block loot crate & beacon spawns or impede access to them by other players. 
+2. **DO NOT** block loot crate, beacon spawns, and explorer notes or impede access to them by other players. 
 2. **DO NOT** build or block access to the following restricted locations:
      - **Aberration:**
          - Surface Access Points
@@ -27,7 +28,10 @@
          - Ice Palace underneath Green Obelisk (Organic Polymer)
      - **Extinction:**
          - City Terminals
-     - **Ragnarok:**
+    - **Genesis 2:**
+         - Rockwell's stomach
+         - Airlock passages
+    - **Ragnarok:**
          - The Wyvern Scar or it's immediate surroundings
          - Ice Wyvern spawn points
          - Crystal Caves at Coordinates: 85.8, 51.1 | 40.0, 62.6 | 37.6, 58.9
