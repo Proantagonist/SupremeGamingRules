@@ -44,10 +44,10 @@ _Allows the Tek suit to protect against radiation._
 _Provides QoL changes to flyers that include speed levelling, backing up, and adjustable settings on breeding._
 
 ## [Dino Storage v2](https://steamcommunity.com/sharedfiles/filedetails/?id=1609138312)
-Brings a huge amount of changes to how you store, breed and transport dinos. Better cryopods is the most simple description.
+_Brings a huge amount of changes to how you store, breed and transport dinos. Better cryopods is the most simple description._
 
 ## [Colour Blind Friendly Supply Drops](https://steamcommunity.com/sharedfiles/filedetails/?id=708257555)
-Enhances the colour visuals of supply drops, especially for those who are colour blind.
+_Enhances the colour visuals of supply drops, especially for those who are colour blind._
 
 ## [Automated Ark (Core)](https://steamcommunity.com/sharedfiles/filedetails/?id=2007400172)
 _Adds additional automationg items to Ark to include storage, earthquake gatherer, and more._
