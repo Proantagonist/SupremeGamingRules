@@ -5,7 +5,7 @@
 
 <br>
 
-### **[Ark Shop](https://arkserverapi.com/index.php?resources/shop-currency-kits.14/)**
+### [Ark Shop](https://arkserverapi.com/index.php?resources/shop-currency-kits.14/)
 _Enables us to provide items to players in exchange for points earned during gameplay and by donations._
 #### Commands
 > * **/points** - Shows current amount of points.
@@ -19,14 +19,14 @@ _Enables us to provide items to players in exchange for points earned during gam
 
 <br>
 
-### **[All Engrams](https://arkserverapi.com/index.php?resources/all-engrams.6/)**
+### [All Engrams](https://arkserverapi.com/index.php?resources/all-engrams.6/)
 _Supporters and higher can use the command from this plugin to learn all non-Tek engrams. Removes the tedious issue of having to click each engram._
 #### Commands
 > * **/GiveEngrams** - Learns all non-tech engrams
 
 <br>
 
-### **[Tribe Log Relay](https://arkserverapi.com/index.php?resources/tribe-log-relay.161/)**
+### [Tribe Log Relay](https://arkserverapi.com/index.php?resources/tribe-log-relay.161/)
 _Gives tribe owners the ability to have in-game tribe log events forwarded to a discord channel of their choosing._
 #### Commands
 > * **/tlr** `webhooklink` - Sets a Discord webhook for the tribe.<br>
@@ -34,7 +34,7 @@ _Gives tribe owners the ability to have in-game tribe log events forwarded to a 
 
 <br>
 
-### **[Structures Limit]((https://arkserverapi.com/index.php?resources/structures-limit.40/))**
+### [Structures Limit]((https://arkserverapi.com/index.php?resources/structures-limit.40/))
 _Limits structures per tribe/player in the whole map to 8000_
 #### Commands
 > * **/ShowLimits** - Shows the amount of player/tribe stuctures and the specific limits for certain items.
