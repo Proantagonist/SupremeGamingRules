@@ -1,61 +1,59 @@
-## These rules and settings apply to all PvE servers:
+# Global Rules
 
-# **Global Rules**
+## These rules and settings apply to all Ark PvE servers:
 
 1. ### **DO NOT** block player spawns.
- _If you have a player spawn inside your base, you __**MUST**__ make sure that there is an easy and obvious path out from your base._
+   - If you have a player spawn inside your base, you __**MUST**__ make sure that there is an easy and obvious path out from your base.
 
 2. ### **DO NOT** block loot crate, beacon spawns, and explorer notes or impede access to them by other players.
- _Structures can be subject to removal without warning_
+   - Structures can be subject to removal without warning
 
 3. ### **DO NOT** build or block access to the following restricted locations:
-> **Aberration:**
-> * Surface Access Points
->
-> **Center:**
-> * Skull Island (Obsidian, Metal & Crystal)
-> * Penguin Iceberg at Green Obelisk (Organic Polymer)
-> * Ice Palace underneath Green Obelisk (Organic Polymer)
->
-> **Extinction:**
-> * City Terminals
->
-> **Genesis 2:**
-> * Rockwell's stomach
-> * Airlock passages
->
-> **Ragnarok:**
-> * The Wyvern Scar or it's immediate surroundings
-> * Ice Wyvern spawn points
-> * Crystal Caves at Coordinates: 85.8, 51.1 | 40.0, 62.6 | 37.6, 58.9
->
-> **Valguero:**
-> * Aberration Access Points
-> * Deinonychus Nests
-> * Deep Sea Cave Entrances
+   -  **Aberration:**
+      * Surface Access Points
+
+   -  **Center:**
+      * Skull Island (Obsidian, Metal & Crystal)
+      * Penguin Iceberg at Green Obelisk (Organic Polymer)
+      * Ice Palace underneath Green Obelisk (Organic Polymer)
+
+   -  **Extinction:**
+      * City Terminals
+
+   -  **Genesis 2:**
+      * Rockwell's stomach
+      * Airlock passages
+
+   -  **Ragnarok:**
+      * The Wyvern Scar or it's immediate surroundings
+      * Ice Wyvern spawn points
+      * Crystal Caves at Coordinates: 85.8, 51.1 | 40.0, 62.6 | 37.6, 58.9
+
+   -  **Valguero:**
+      * Aberration Access Points
+      * Deinonychus Nests
+      * Deep Sea Cave Entrances
 
 4. ### **DO NOT** bring flyers to the Aberration map. 
-_Any non-native flyers on Aberration will be immediately destroyed on sight by admins._
+    - Any non-native flyers on Aberration will be immediately destroyed on sight by admins.
 
 5. ### **DO NOT** cheat or exploit bugs in the game or mods. 
-_These include using indestructible player-crafted structures to create choke points or modify the root map design._
+    - These include using indestructible player-crafted structures to create choke points or modify the root map design.
 
 6. ### **NO** excessive cursing, racism or hate speech in global chat or on the server Discord which extends to aliases and character names.  
-_If an argument needs to happen, take it to private messages._
+    - If an argument needs to happen, take it to private messages.
 
 7. ### **NO** griefing, trolling, or harrassing other players. 
-_This also extends to stealing from other's containers, killing players and dinos, kiting aggressive dinos to someone's base or interrupting tames._
+    - This also extends to stealing from other's containers, killing players and dinos, kiting aggressive dinos to someone's base or interrupting tames.
 
 8. ### **DO NOT** let your tamed dinos wander outside of your base.
-_Violations may result in destruction of tribe dinos without warning if the problem is bad enough._
+    - Violations may result in destruction of tribe dinos without warning if the problem is bad enough.
 
 9. ### **NO** foundation, pillar or structure spam. 
-__**Only build where you are active.**__
+    - **Only build where you are active.**
 
-_"Do unto others as you would have them do unto you"_
-<br>
+> "Do unto others as you would have them do unto you"
 
----
 <br>
 
 ## **Territory Claims**
