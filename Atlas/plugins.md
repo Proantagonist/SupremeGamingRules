@@ -19,7 +19,7 @@ _Enables us to provide items to players in exchange for points earned during gam
 
 <br>
 
-### [Tribe Log Relay](https://arkserverapi.com/index.php?resources/tribe-log-relay.161/)
+### [Tribe Log Relay](https://arkserverapi.com/index.php?resources/atlas-tribe-log-relay.162/)
 _Gives tribe owners the ability to have in-game tribe log events forwarded to a discord channel of their choosing._
 #### Commands
 > * **/tlr** `webhooklink` - Sets a Discord webhook for the tribe.<br>
@@ -27,7 +27,7 @@ _Gives tribe owners the ability to have in-game tribe log events forwarded to a 
 
 <br>
 
-### [Structures Limit]((https://arkserverapi.com/index.php?resources/structures-limit.40/))
+### [Structures Limit](https://arkserverapi.com/index.php?resources/structures-limit.151/)
 _Limits structures per tribe/player in the whole map to 8000_
 #### Commands
 > * **/ShowLimits** - Shows the amount of player/tribe stuctures and the specific limits for certain items.
