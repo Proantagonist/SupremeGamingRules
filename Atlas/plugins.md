@@ -1,4 +1,4 @@
-# **Ark Plugins**
+# **Atlas Plugins**
 
 <p>Below are the active plugins on all of the Atlas grid servers and some information on how to use their commands. For more information on the plugin and its capabilities, click the name of each one to be linked to the API page.</p>
 <p>Commands are typed in the game chat window.</p>
