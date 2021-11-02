@@ -28,7 +28,7 @@ _Gives tribe owners the ability to have in-game tribe log events forwarded to a 
 <br>
 
 ### [Structures Limit](https://arkserverapi.com/index.php?resources/structures-limit.151/)
-_Limits structures per tribe/player in the whole map to 8000_
+_Limits structures per tribe/player on each grid to 10000._
 #### Commands
 > * **/ShowLimits** - Shows the amount of player/tribe stuctures and the specific limits for certain items.
 
