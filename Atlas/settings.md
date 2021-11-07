@@ -1,8 +1,5 @@
-# **Atlas Settings**
-
-## General Settings
+# General Settings
 _These settings apply to most of the grids, with changes noted in sections below. If a setting is not mentioned, then it is safe to assume it is the vanilla default for the game._
-
 
 **Max Ship level** - _150_ <br>
 **Engrams Points Per level** - _10_ <br>
@@ -22,9 +19,8 @@ _These settings apply to most of the grids, with changes noted in sections below
 **Show Floating Damage Text** - _True_
 
 ---
-## PvP Zone Settings
+# PvP Zone Settings
 _These setting only apply in grids A1, A2, A3, B1, B2, B3, C1, C2, and C3 which are designated PvP zones. Only the settings changed from above are listed._
-
 
 **XP** - _10x_ <br>
 **Taming** - _10x_ <br>
@@ -36,9 +32,8 @@ _These setting only apply in grids A1, A2, A3, B1, B2, B3, C1, C2, and C3 which 
 **Treasure Gold Multiplier** - _3x_
 
 ---
-## Tame Overhaul Mod Settings
+# Tame Overhaul Mod Settings
 _These settings are for the Tame Overhaul Mod active on the server. Any setting not mentioned is considered to be the mod's default._
-
 
 **Spawn Levels** - _1.0 (this gives the spawn levels a much more even distribution instead of the vanilla, you'll see more high level animals)_ <br>
 **Tame Gorgon** - _True_ <br>
@@ -61,15 +56,13 @@ _These settings are for the Tame Overhaul Mod active on the server. Any setting 
 > **Turtle** - 70%
 
 ---
-## Ship Repair Crew Mod Settings
+# Ship Repair Crew Mod Settings
 _These settings apply to the repair crew NPC podium you can place on ships. Settings not mentioned are considered to be the mod's default._
-
 
 **Gold Upkeep** - _True (you must still pay crew on your ships)_
 
 ---
-## Custom Shipyards Mod Settings
+# Custom Shipyards Mod Settings
 _These settings apply to the Custom Shipyards you can build in game. It is recommended to use these shipyards over all others. Settings not mentioned are considered to be the mod's default._
-
 
 **Drydock Quality** - _True (if you dry dock your ship in a higher quality shipyard, it will unlock the max level potential of that ship to your shipyard's max quality)_
