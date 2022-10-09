@@ -85,3 +85,9 @@ _Adds additional automationg items to Ark to include storage, earthquake gathere
 
 ### [Automated Ark: Kitchen Add-ons](https://steamcommunity.com/sharedfiles/filedetails/?id=2007441758) 
 _Adds kitchen-specific automation tools and storage that works on top of the Automated Ark mod._
+
+### [MX-E Ark Shop UI](https://steamcommunity.com/sharedfiles/filedetails/?id=2693727499)
+_This mod implements an easy to use interface for the most popular and free shop plugin "ArkShop"._
+
+### [Inventory Backup System](https://steamcommunity.com/sharedfiles/filedetails/?id=2623890618)
+_This mod is meant to assist the admin team in recovering inventories **in the case of an emergency**._
