@@ -48,6 +48,9 @@ _Instead of using Ark’s built-in decay system, we use a plugin. This has the a
 * Donor – _25 days_
 * Backer – _30 days_
 * Patron – _35 days_
+* Benefactor - _40 days_
+* Gold Benefactor - _45 days_
+* Platinum Benefactor - _50 days_
 
 ####  Fast Decay is as follows (under 5 structures in a 10 foundation radius):
 * Default – _2 days_
