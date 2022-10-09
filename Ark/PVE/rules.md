@@ -9,6 +9,13 @@
    - Structures can be subject to removal without warning
 
 3. ### **DO NOT** build or block access to the following restricted locations:
+   -  **All Applicable Maps**
+      * Wyvren Scars (including entrances or immediate surroundings)
+      * Deinonychus Nests
+      * Magmasaur Nests
+      * Boss Terminals
+      * Obelisks
+  
    -  **Aberration:**
       * Surface Access Points
 
@@ -22,17 +29,14 @@
 
    -  **Genesis 2:**
       * Rockwell's stomach
-      * Airlock passages
 
    -  **Ragnarok:**
-      * The Wyvern Scar or it's immediate surroundings
-      * Ice Wyvern spawn points
-      * Crystal Caves at Coordinates: 85.8, 51.1 | 40.0, 62.6 | 37.6, 58.9
+      * Crystal Caves at Coordinates: 85.8, 51.1 | 40.0, 62.6
 
    -  **Valguero:**
       * Aberration Access Points
-      * Deinonychus Nests
       * Deep Sea Cave Entrances
+
 
 4. ### **DO NOT** bring flyers to the Aberration map. 
     - Any non-native flyers on Aberration will be immediately destroyed on sight by admins.
@@ -98,7 +102,7 @@ Violations that originate from toxic behaviour will more often times result in a
 
 If rules are being violated then you must submit proof before asking an admin to investigate. Proof can be in the form of relevant screenshots (F12 while in game to capture screen via Steam) or in the form of video if you are able to do so. Do not come to use asking for someone to be punished without proof. Do **_NOT_** leave out details just to help your case. Admins do not take kindly to lying.
 
-You can report a violation on the [Discord Server](https://discord.gg/supremegaming) and creating a support ticket in any channel by sending a message containing `!ticket new`.
+You can report a violation on the [Discord Server](https://discord.gg/supremegaming) and creating a support ticket in any channel by sending a message containing `/ticket new`.
 
 ---
 
