@@ -9,13 +9,7 @@
 _Enables us to provide items to players in exchange for points earned during gameplay and by donations._
 #### Commands
 > * **/points** - Shows current amount of points.
-> * **/buy** `ID Amount` - Buys the item from shop.
-> * **/trade** `'CharacterName' Amount` - Sends points to other player (single quotes around character name are necessary).
-> * **/kit** - Shows all kits.
-> * **/kit** `KitName` - Redeems the kit.
-> * **/buykit** `KitName Amount` - Buys a kit (if kit has a price).
-> * **/shop** `Page` - Shows a list of available items in the shop.
-> * **/shophelp** - Show custom help message.
+> * **F1** - Shows the SupremeArk Shop.
 
 <br>
 
