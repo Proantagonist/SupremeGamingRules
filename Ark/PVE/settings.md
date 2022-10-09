@@ -1,8 +1,11 @@
 ## **General Settings**
 _These settings apply to oue Ark PvE Maps. If a setting is not mentioned, then it is safe to assume it is the vanilla default for the game._
 
-**Max Player Level**: _425 (with all ascensions)_<br>
+**Max Player Level**: _350 (435 with all ascensions)_<br>
 **Max Wild Dino Level**: _240_<br>
+**Max Wild Tek Dino Level**: _288_<br>
+**Max Rock Drake & Wyvren Egg Level**: _304_<br>
+**Max Crystal Wyvren Egg Level**: _360_<br>
 **Max Tamed Levels**: _150_<br>
 **Gathering**: _10x_<br>
 **XP**: _10x_<br>
@@ -51,13 +54,6 @@ _Instead of using Ark’s built-in decay system, we use a plugin. This has the a
 * Benefactor - _40 days_
 * Gold Benefactor - _45 days_
 * Platinum Benefactor - _50 days_
-
-####  Fast Decay is as follows (under 5 structures in a 10 foundation radius):
-* Default – _2 days_
-* Supporter – _3 days_
-* Donor – _4 days_
-* Backer – _5 days_
-* Patron – _6 days_
 
 #### The following structures are excluded from fast decay:
 * Oil pump
@@ -156,6 +152,6 @@ _These settings are for the structures plus building mod. Settings not mentioned
 
 For those serious about their breeding game, [Ark Smart Breeding](https://github.com/cadon/ARKStatsExtractor) is a great tool to keep track of your dino generations and get the best out of your breeders. In addition, Supreme Ark runs bi-weekly Breeding Bonanza weekends where breeding settings are ramped up to 3x the normal Supreme Ark breeding rates noted above. The settings to use for the app on your end (both normal and Breeding Bonanza) are as follow:
 
-![Normal and Breeding Bonanza Buff Settings](https://i.imgur.com/61u16uG.png "Normal and Breeding Bonanza Buff Settings")
+![Normal and Breeding Bonanza Buff Settings](https://media.discordapp.net/attachments/282014475094327297/1028748383030095965/unknown.png?width=466&height=466 "Normal and Breeding Bonanza Buff Settings")
 
 Toggle the "event" checkbox when the server is on a Breeding Bonanza weeked, which usually happens every two weeks.
