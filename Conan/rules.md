@@ -1,4 +1,4 @@
-# **Conan Guidlines & Rules**
+# **Conan Guidelines & Rules**
 
 ## These guidleines & rules apply to all Conan Servers on SupremeGaming.
 
