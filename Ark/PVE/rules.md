@@ -1,6 +1,16 @@
 # Global Rules
 
-## These rules and settings apply to all Ark PvE servers:
+## Language
+
+We aim to be a family friendly environment and do not want excessive cursing in chat. While we understand sometimes an expletive is the best way to get your feelings across, please keep it to a minimum. Players and staff will ask you to watch your language if it becomes disruptive, so please respect their wishes. 
+
+However, using foul language as an insult to other players is unacceptable and will be addressed by an admin was soon as we can. Please remember we can see all chat from game in Discord.<br>
+
+## Toxicity
+
+While "trash talk" is many times an aspect of PvP and even sometimes PvE, if it reaches a level of you being a toxic player, you will be addessed by an admin to be mindful of your chat. If your behaviour continues to degrade or you begin to destroy the friendly and respectful environment we wish to achieve, _you will be removed_.<br>
+
+## Building Regulations & Guidelines:<br>
 
 1. ### **DO NOT** block player spawns.
    - If you have a player spawn inside your base, you __**MUST**__ make sure that there is an easy and obvious path out from your base.
@@ -35,7 +45,7 @@
 
    -  **Valguero:**
       * Aberration Access Points
-      * Deep Sea Cave Entrances
+      * Deep Sea Cave Entrances<br>
 
 
 4. ### **DO NOT** bring flyers to the Aberration map. 
@@ -55,6 +65,9 @@
 
 9. ### **NO** foundation, pillar or structure spam. 
     - **Only build where you are active.**
+
+10. ### **CLEAN UP** after yourself, if you're done using your trap - **_remove it!_**
+    - _Dino Traps_ are to be removed as soon as **YOU**, their builder, are done using them.
 
 > "Do unto others as you would have them do unto you"
 
@@ -108,6 +121,4 @@ You can report a violation on the [Discord Server](https://discord.gg/supremegam
 
 ## **Additional Notes**
 
-The Craftable Tribute Terminal mod allows players to create an obelisk terminal to place in their base in order to make transfers between servers more convenient.
-
-_Be responsible with the pillars and terminals you place down. They are not demolishable by anybody else but the tribe that placed them. We admins do not have the time to go around and cleaning out terminals whenever they are abandoned and someone else wants to build where they are placed. If you place a tribute terminal please pick it up after you are done transferring/transporting items or creatures._
+The rules, mods and settings are subject to be updated. We do our best to inform you of those changes, please keep an eye out in discord or in-game when we announce rule enhancements or removals.
