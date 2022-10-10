@@ -15,28 +15,9 @@
       * Magmasaur Nests
       * Boss Terminals
       * Obelisks
-  
-   -  **Aberration:**
-      * Surface Access Points
-
-   -  **Center:**
-      * Skull Island (Obsidian, Metal & Crystal)
-      * Penguin Iceberg at Green Obelisk (Organic Polymer)
-      * Ice Palace underneath Green Obelisk (Organic Polymer)
-
-   -  **Extinction:**
-      * City Terminals
 
    -  **Genesis 2:**
       * Rockwell's stomach
-
-   -  **Ragnarok:**
-      * Crystal Caves at Coordinates: 85.8, 51.1 | 40.0, 62.6
-
-   -  **Valguero:**
-      * Aberration Access Points
-      * Deep Sea Cave Entrances
-
 
 4. ### **DO NOT** bring flyers to the Aberration map. 
     - Any non-native flyers on Aberration will be immediately destroyed on sight by admins.

@@ -9,7 +9,7 @@
 _Enables us to provide items to players in exchange for points earned during gameplay and by donations._
 #### Commands
 > * **/points** - Shows current amount of points.
-> * **F1** - Shows the SupremeArk Shop.
+> * **F2** - Shows the SupremeArk Shop.
 
 <br>
 
