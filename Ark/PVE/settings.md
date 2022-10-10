@@ -1,5 +1,5 @@
 ## **General Settings**
-_These settings apply to oue Ark PvE Maps. If a setting is not mentioned, then it is safe to assume it is the vanilla default for the game._
+_These settings apply to our Ark PvE Maps. If a setting is not mentioned, then it is safe to assume it is the vanilla default for the game._
 
 **Max Player Level**: _350 (435 with all ascensions)_<br>
 **Max Wild Dino Level**: _240_<br>
