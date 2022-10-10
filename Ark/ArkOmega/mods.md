@@ -2,7 +2,12 @@
 
 ## Subscribe to the collection
 
-To subscribe to the collection, please visit [THIS LINK](https://steamcommunity.com/sharedfiles/filedetails/?id=1855769521) where you will find all of our mods bundled together in a single place. Below is a small description of our mods, what they offer, and how to use some of their benefits.
+Below is a small description of our mods, what they offer, and how to use some of their benefits.
+
+<br>
+
+### [ARK Omega](https://steamcommunity.com/sharedfiles/filedetails/?id=2447186973)
+_An overhaul progression mod with 250,000+ dino variations & challenging progression experience._
 
 <br>
 
@@ -63,11 +68,6 @@ _Allows the Tek suit to protect against radiation._
 
 <br>
 
-### [Classic Flyers](https://steamcommunity.com/sharedfiles/filedetails/?id=895711211)
-_Provides QoL changes to flyers that include speed levelling, backing up, and adjustable settings on breeding._
-
-<br>
-
 ### [Dino Storage v2](https://steamcommunity.com/sharedfiles/filedetails/?id=1609138312)
 _Brings a huge amount of changes to how you store, breed and transport dinos. Better cryopods is the most simple description._
 
@@ -86,8 +86,12 @@ _Adds additional automationg items to Ark to include storage, earthquake gathere
 ### [Automated Ark: Kitchen Add-ons](https://steamcommunity.com/sharedfiles/filedetails/?id=2007441758) 
 _Adds kitchen-specific automation tools and storage that works on top of the Automated Ark mod._
 
+<br>
+
 ### [MX-E Ark Shop UI](https://steamcommunity.com/sharedfiles/filedetails/?id=2693727499)
 _This mod implements an easy to use interface for the most popular and free shop plugin "ArkShop"._
+
+<br>
 
 ### [Inventory Backup System](https://steamcommunity.com/sharedfiles/filedetails/?id=2623890618)
 _This mod is meant to assist the admin team in recovering inventories **in the case of an emergency**._

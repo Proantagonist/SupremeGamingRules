@@ -4,18 +4,18 @@
 
 We aim to be a family friendly environment and do not want excessive cursing in chat. While we understand sometimes an expletive is the best way to get your feelings across, please keep it to a minimum. Players and staff will ask you to watch your language if it becomes disruptive, so please respect their wishes. 
 
-However, using foul language as an insult to other players is unacceptable and will be addressed by an admin was soon as we can. Please remember we can see all chat from game in Discord.<br>
+However, using foul language as an insult to other players is unacceptable and will be addressed by an admin was soon as we can. Please remember we can see all chat from game in Discord.
 
 ## Toxicity
 
-While "trash talk" is many times an aspect of PvP and even sometimes PvE, if it reaches a level of you being a toxic player, you will be addessed by an admin to be mindful of your chat. If your behaviour continues to degrade or you begin to destroy the friendly and respectful environment we wish to achieve, _you will be removed_.<br>
+While "trash talk" is many times an aspect of PvP and even sometimes PvE, if it reaches a level of you being a toxic player, you will be addessed by an admin to be mindful of your chat. If your behaviour continues to degrade or you begin to destroy the friendly and respectful environment we wish to achieve, _you will be removed_.
 
-## Building Regulations & Guidelines:<br>
+## Building Regulations & Guidelines:
 
 1. ### **DO NOT** block player spawns.
    - If you have a player spawn inside your base, you __**MUST**__ make sure that there is an easy and obvious path out from your base.
 
-2. ### **DO NOT** block loot crate, beacon spawns, and explorer notes or impede access to them by other players.
+2. ### **DO NOT** block loot crate, beacon spawns, runes and explorer notes or impede access to them by other players.
    - Structures can be subject to removal without warning
 
 3. ### **DO NOT** build or block access to the following restricted locations:
@@ -25,28 +25,9 @@ While "trash talk" is many times an aspect of PvP and even sometimes PvE, if it 
       * Magmasaur Nests
       * Boss Terminals
       * Obelisks
-  
-   -  **Aberration:**
-      * Surface Access Points
-
-   -  **Center:**
-      * Skull Island (Obsidian, Metal & Crystal)
-      * Penguin Iceberg at Green Obelisk (Organic Polymer)
-      * Ice Palace underneath Green Obelisk (Organic Polymer)
-
-   -  **Extinction:**
-      * City Terminals
 
    -  **Genesis 2:**
       * Rockwell's stomach
-
-   -  **Ragnarok:**
-      * Crystal Caves at Coordinates: 85.8, 51.1 | 40.0, 62.6
-
-   -  **Valguero:**
-      * Aberration Access Points
-      * Deep Sea Cave Entrances<br>
-
 
 4. ### **DO NOT** bring flyers to the Aberration map. 
     - Any non-native flyers on Aberration will be immediately destroyed on sight by admins.
@@ -55,7 +36,7 @@ While "trash talk" is many times an aspect of PvP and even sometimes PvE, if it 
     - These include using indestructible player-crafted structures to create choke points or modify the root map design.
 
 6. ### **NO** excessive cursing, racism or hate speech in global chat or on the server Discord which extends to aliases and character names.  
-    - If an argument needs to happen, take it to private messages.
+    - If an argument needs to happen, _take it to private messages_.
 
 7. ### **NO** griefing, trolling, or harrassing other players. 
     - This also extends to stealing from other's containers, killing players and dinos, kiting aggressive dinos to someone's base or interrupting tames.
@@ -66,7 +47,7 @@ While "trash talk" is many times an aspect of PvP and even sometimes PvE, if it 
 9. ### **NO** foundation, pillar or structure spam. 
     - **Only build where you are active.**
 
-10. ### **CLEAN UP** after yourself, if you're done using your trap - **_remove it!_**
+10. ### **CLEAN UP** after yourself, if you're done using your trap - remove it!
     - _Dino Traps_ are to be removed as soon as **YOU**, their builder, are done using them.
 
 > "Do unto others as you would have them do unto you"
