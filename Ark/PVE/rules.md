@@ -2,9 +2,9 @@
 
 ## Language
 
-We aim to be a family friendly environment and do not want excessive cursing in chat. While we understand sometimes an expletive is the best way to get your feelings across, please keep it to a minimum. Players and staff will ask you to watch your language if it becomes disruptive, so please respect their wishes. 
+While we understand sometimes an expletive is the best way to get your feelings across, please keep it to a minimum. Players and staff will ask you to watch your language if it becomes disruptive, so please respect their wishes. 
 
-However, using foul language as an insult to other players is unacceptable and will be addressed by an admin was soon as we can. Please remember we can see all chat from game in Discord.<br>
+However, using foul language as an insult to other players is unacceptable and will be addressed by an admin as soon as we can. Please remember we can see all chat from game in Discord.<br>
 
 ## Toxicity
 
@@ -15,7 +15,7 @@ While "trash talk" is many times an aspect of PvP and even sometimes PvE, if it 
 1. ### **DO NOT** block player spawns.
    - If you have a player spawn inside your base, you __**MUST**__ make sure that there is an easy and obvious path out from your base.
 
-2. ### **DO NOT** block loot crate, beacon spawns, and explorer notes or impede access to them by other players.
+2. ### **DO NOT** block loot crate, beacon spawns, runes, and explorer notes or impede access to them by other players.
    - Structures can be subject to removal without warning
 
 3. ### **DO NOT** build or block access to the following restricted locations:
@@ -40,28 +40,40 @@ While "trash talk" is many times an aspect of PvP and even sometimes PvE, if it 
    -  **Genesis 2:**
       * Rockwell's stomach
 
+   -  **Island:**
+      * Hidden Lake
+
    -  **Ragnarok:**
       * Crystal Caves at Coordinates: 85.8, 51.1 | 40.0, 62.6
+
+   - **Svartalfheim:**
+      * Penguin Cave @ 7.35, 23.8
+      * Crystal Cave @ 17, 58.65 | 14.5, 52.6
+      * All Dwarven Castle & Ruin Locations
+      * All Dwarven Warrior/Archer spawn locations
+      * All Dwarven Forge locations
 
    -  **Valguero:**
       * Aberration Access Points
       * Deep Sea Cave Entrances<br>
 
 
-4. ### **DO NOT** bring flyers to the Aberration map. 
-    - Any non-native flyers on Aberration will be immediately destroyed on sight by admins.
+4. ### **DO NOT** bring flyers to Aberration, Genesis 1 or Svartalfheim maps. 
+    - Any non-native flyers on these maps will be immediately destroyed on sight by admins.
 
 5. ### **DO NOT** cheat or exploit bugs in the game or mods. 
     - These include using indestructible player-crafted structures to create choke points or modify the root map design.
+    - Using the G function of Teleporting to bring Dinos into Caves where they cannot be released or enter naturally.
 
-6. ### **NO** excessive cursing, racism or hate speech in global chat or on the server Discord which extends to aliases and character names.  
+6. ### **NO** excessive cursing, **NO** racism and **NO** hate speech in global chat or on the server Discord which extends to aliases and character names.  
     - If an argument needs to happen, take it to private messages.
 
 7. ### **NO** griefing, trolling, or harrassing other players. 
     - This also extends to stealing from other's containers, killing players and dinos, kiting aggressive dinos to someone's base or interrupting tames.
 
 8. ### **DO NOT** let your tamed dinos wander outside of your base.
-    - Violations may result in destruction of tribe dinos without warning if the problem is bad enough.
+    - Dinos should remain within the boundaries of your base.
+    - Dinos reported left on Aggressive will be deleted without warning.
 
 9. ### **NO** foundation, pillar or structure spam. 
     - **Only build where you are active.**
@@ -95,17 +107,17 @@ While the server is primarily focused on PvE, we **DO** offer the ability for tr
 
 ## **Super Breeds**
 
-Super Breeds are defined as any dino with a base level of over 800. These dinos have been bred to have the highest values in at least 2 stats. Super Breed dinos are the property of the breeder and can only be traded, gifted, bred or used in boss fights at the original breeder's discretion. If caught with a Super Breed line that is not yours, the dinos will be removed from your possession and additional punishments will follow based on the severity of the violation.
+Super Breeds are defined as any dino with a base level of over 500. These dinos have been bred to have the highest values in at least 2 stats. Super Breed dinos are the property of the breeder and can only be traded, gifted, bred or used in boss fights at the original breeder's discretion. If caught with a Super Breed line that is not yours, the dinos will be removed from your possession and additional punishments will follow based on the severity of the violation.
 
 **DO NOT** cross-breed supers with regular tames.
   - Breeders Responsibilities:
-    - Be cautious as to who you issue your super bred dinos to.
+    - Be mindful as to who you issue your super bred dinos to.
     - IF a super bred dino is involved in griefing - it will be destroyed.
   - Breeders Rights:
     - Issue/Exchange their super breeds with whomever they wish.
     - There are no limitations to what you can breed.
 
-Please reference [this forum category](https://www.supremegaming.gg/forums/category/15/pve-super-breeding-registration) for the list of registered Super Breeds and their authorised users.
+Please reference [this forum category](https://docs.google.com/document/d/e/2PACX-1vRVFVWtmYawjnuT7MhqTDSsoanbGIae-IEW3UvPsH4U8YPziBXViHwOxnRQOJXXLOrhLQboP_cUYwko/pub) for the list of registered Super Breeds and their authorised users.
 
 ---
 

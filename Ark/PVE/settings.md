@@ -1,7 +1,7 @@
 ## **General Settings**
 _These settings apply to our Ark PvE Maps. If a setting is not mentioned, then it is safe to assume it is the vanilla default for the game._
 
-**Max Player Level**: _350 (435 with all ascensions)_<br>
+**Max Player Level**: _350 (450 with all ascensions, chibi, runes & explorer notes)_<br>
 **Max Wild Dino Level**: _240_<br>
 **Max Wild Tek Dino Level**: _288_<br>
 **Max Rock Drake & Wyvren Egg Level**: _304_<br>
