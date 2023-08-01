@@ -107,7 +107,7 @@ While the server is primarily focused on PvE, we **DO** offer the ability for tr
 
 ## **Super Breeds**
 
-Super Breeds are defined as any dino with a base level of over 500. These dinos have been bred to have the highest values in at least 2 stats. Super Breed dinos are the property of the breeder and can only be traded, gifted, bred or used in boss fights at the original breeder's discretion. If caught with a Super Breed line that is not yours, the dinos will be removed from your possession and additional punishments will follow based on the severity of the violation.
+Super Breeds are defined as any dino with a base level of over 500. These dinos have been bred to have the highest values in at least Health & Stamina. Super Bred dinos are the property of the breeder and can only be traded, gifted, bred or used in boss fights at the original breeder's discretion. If caught with a Super Breed line that is not yours, the dinos will be removed from your possession and additional punishments will follow based on the severity of the violation.
 
 **DO NOT** cross-breed supers with regular tames.
   - Breeders Responsibilities:
