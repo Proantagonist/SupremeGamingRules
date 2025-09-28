@@ -15,7 +15,7 @@ While "trash talk" is many times an aspect of PvP and even sometimes PvE, if it 
 1. ### **DO NOT** block player spawns.
    - If you have a player spawn inside your base, you __**MUST**__ make sure that there is an easy and obvious path out from your base.
 
-2. ### **DO NOT** block loot crate, beacon spawns, runes, and explorer notes or impede access to them by other players.
+2. ### **DO NOT** block loot crate, beacon spawns, runes, artifact caves, and explorer notes or impede access to them by other players.
    - Structures can be subject to removal without warning
 
 3. ### **DO NOT** build or block access to the following restricted locations:
