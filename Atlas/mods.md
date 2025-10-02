@@ -4,65 +4,70 @@ Below is a small description of our mods, what they offer, and how to use some o
 
 <br>
 
-### [Custom Item Stacks](https://steamcommunity.com/sharedfiles/filedetails/?id=1629667379)
-_A stack mod that increase the maximum stack size of resources and reduces their weight._
-
+### [Atlas Overseer](https://steamcommunity.com/sharedfiles/filedetails/?id=1793770577)
+_A mod for admins._
 <br>
 
-### [ATLAS Shipwright EA](https://steamcommunity.com/sharedfiles/filedetails/?id=2308123196)
-_Vanilla ship variants and the addition of many secondary ship models with the added ability to customize the functionality and behavior of ships._
-
+### [Eco RP Decor](https://steamcommunity.com/sharedfiles/filedetails/?id=2073834577)
+_Craft time appropriate furniture, kitchen items, and decorations for your servers!_
 <br>
 
-### [ATLAS Architect](https://steamcommunity.com/sharedfiles/filedetails/?id=1760515965)
-_Additional structuers on top of vanilla structure variants with QoL features such as being able to pick up structures at any time._
-
-<br>
-
-### [ATLAS Overseer](https://steamcommunity.com/sharedfiles/filedetails/?id=1793770577)
-_Admin mod that gives us the ability to keep the server nice and tidy. Tools that should have been available from GS in the first place._
-
-<br>
-
-### [eco's RP Decor](https://steamcommunity.com/sharedfiles/filedetails/?id=2073834577)
-_Decorative mod with plenty of aethetic structures to spice up your builds!_
-
-<br>
-
-### [Tame Overhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=2279458702)
-_Allows us to configure creature, breeding, and taming mechanics._
-
-<br>
-
-### [More Crops](https://steamcommunity.com/sharedfiles/filedetails/?id=2272612361)
-_The first line of the mod description couldn't be more accurate: allows you to grow EVERYTHING._
-
+### [More Cropst](https://steamcommunity.com/sharedfiles/filedetails/?id=2272612361)
+_Grow everything!_
 <br>
 
 ### [Reusable Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=2265215353)
-_Reusable variants of one-time or infinite duratiblity for common atlas tools._
-
+_Adds reusable/indestructible tools._
 <br>
 
-### [Smart Decay](https://steamcommunity.com/sharedfiles/filedetails/?id=2415177472)
-_Better decay system for old structures, boats, tames. Helps keep the server tidy._
-
+### [Tame Overhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=2279458702)
+_Changes to the creatures of ATLAS_
 <br>
 
-### [Revys Mods - Core](https://steamcommunity.com/sharedfiles/filedetails/?id=2539383268)
-_Central support mod for other mods._
-
+### [Smart Decayl](https://steamcommunity.com/sharedfiles/filedetails/?id=2415177472)
+_Every structure, every ship, every animal that has not been loaded by its own company for X days will automatically decay._
 <br>
 
-### [Custom Shipyards](https://steamcommunity.com/sharedfiles/filedetails/?id=2502182917)
-_One shipyard to rule them all. Craft all ships (vanilla and modded) in one of the two shipyards (small and large)._
+### [Custom Shipyards](http://steamcommunity.com/sharedfiles/filedetails/?id=2502182917)
+_Ability to craft vanilla ships, modular ships, and ships from other mods in it._
+<br>
 
+### [Revys Mods Core](https://steamcommunity.com/sharedfiles/filedetails/?id=2539383268)
+_It is a central communication hub for Revy's mods._
 <br>
 
 ### [Ship Repair Crew](https://steamcommunity.com/sharedfiles/filedetails/?id=2510799901)
-_Adds ship repairing skill._
-
+_Adds full ship repairing, improves NPC crew, and provides grid crossing protection._
 <br>
 
-### [ATLAS Commander v1.2](https://steamcommunity.com/sharedfiles/filedetails/?id=2549030078)
-_Control ships remotely from a web-based interface._
+### [Atlas Stables, Gold Bank, Aquatic Cargo & Trading Platform](https://steamcommunity.com/sharedfiles/filedetails/?id=2139315708)
+_Your storage-solution in ATLAS!_
+<br>
+
+### [Supreme Customs](https://steamcommunity.com/sharedfiles/filedetails/?id=2732563785)
+_Mod for the Supreme Gaming servers and community._
+<br>
+
+### [CG Structures EA](https://steamcommunity.com/sharedfiles/filedetails/?id=2702515182)
+_Useful tools and structures._
+<br>
+
+### [Magic Flask](https://steamcommunity.com/sharedfiles/filedetails/?id=2839709038)
+_Magic Flasks are a local way to store tames._
+<br>
+
+### [Klinger Additional Pirate Ship Reforged](https://steamcommunity.com/sharedfiles/filedetails/?id=2734150705)
+_This mod is part of the mod: Klinger Additional Ships._
+<br>
+
+### [Klinger Additional Parts V1](https://steamcommunity.com/sharedfiles/filedetails/?id=2734144629)
+_This mod is part of the mod: Klinger Additional Ships._
+<br>
+
+### [Klinger Addtional Parts V2](https://steamcommunity.com/sharedfiles/filedetails/?id=2971314498)
+_This mod is part of the mod: Klinger Additional Ships._
+<br>
+
+### [Klinger Additional Optimized Structures](https://steamcommunity.com/sharedfiles/filedetails/?id=2793077882)
+_A pack of structures with aggressive polygon optimization in order to improve player performance and the loading of giant bases and ports._
+<br>
